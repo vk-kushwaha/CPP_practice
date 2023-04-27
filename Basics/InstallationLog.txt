@@ -1,0 +1,105 @@
+************************************* Invoked: Wed Mar 22 23:23:34 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c17, -m64, -Wp,-v, -E, -dM, -x, c, nul
+[8] Operations sanity check succeeded.
+[12] Language: en-US
+[12] Script file does not exist.
+[13] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:23:35 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c17, -m32, -Wp,-v, -E, -dM, -x, c, nul
+[8] Operations sanity check succeeded.
+[11] Language: en-US
+[11] Script file does not exist.
+[13] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:23:36 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c17, -Wp,-v, -E, -dM, -x, c, nul
+[9] Operations sanity check succeeded.
+[13] Language: en-US
+[13] Script file does not exist.
+[15] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:35:26 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c89, -m64, -Wp,-v, -E, -dM, -x, c, nul
+[14] Operations sanity check succeeded.
+[18] Language: en-US
+[18] Script file does not exist.
+[19] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:35:28 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c89, -m32, -Wp,-v, -E, -dM, -x, c, nul
+[10] Operations sanity check succeeded.
+[13] Language: en-US
+[13] Script file does not exist.
+[15] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:35:29 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c89, -Wp,-v, -E, -dM, -x, c, nul
+[13] Operations sanity check succeeded.
+[54] Language: en-US
+[54] Script file does not exist.
+[56] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:37:18 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c17, -m64, -Wp,-v, -E, -dM, -x, c, nul
+[10] Operations sanity check succeeded.
+[12] Language: en-US
+[12] Script file does not exist.
+[14] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:37:19 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c17, -m32, -Wp,-v, -E, -dM, -x, c, nul
+[14] Operations sanity check succeeded.
+[53] Language: en-US
+[53] Script file does not exist.
+[55] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:37:20 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c17, -Wp,-v, -E, -dM, -x, c, nul
+[13] Operations sanity check succeeded.
+[53] Language: en-US
+[53] Script file does not exist.
+[55] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:38:26 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c++98, -m64, -Wp,-v, -E, -dM, -x, c++, nul
+[49] Operations sanity check succeeded.
+[53] Language: en-US
+[53] Script file does not exist.
+[56] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:38:29 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c++98, -m32, -Wp,-v, -E, -dM, -x, c++, nul
+[14] Operations sanity check succeeded.
+[55] Language: en-US
+[55] Script file does not exist.
+[57] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:38:29 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c++98, -Wp,-v, -E, -dM, -x, c++, nul
+[50] Operations sanity check succeeded.
+[54] Language: en-US
+[55] Script file does not exist.
+[57] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:39:29 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c++98, -m64, -Wp,-v, -E, -dM, -x, c++, nul
+[47] Operations sanity check succeeded.
+[51] Language: en-US
+[51] Script file does not exist.
+[53] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:39:30 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c++98, -m32, -Wp,-v, -E, -dM, -x, c++, nul
+[15] Operations sanity check succeeded.
+[57] Language: en-US
+[57] Script file does not exist.
+[59] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+************************************* Invoked: Wed Mar 22 23:39:31 2023
+[0] Arguments: c:\Users\dell\Downloads\msys2-x86_64-20220603.exe, -std=c++98, -Wp,-v, -E, -dM, -x, c++, nul
+[12] Operations sanity check succeeded.
+[52] Language: en-US
+[52] Script file does not exist.
+[54] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
