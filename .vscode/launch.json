@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "g:/C++/Git Repo/CPP_practice/Functions",
-      "program": "g:/C++/Git Repo/CPP_practice/Functions/build/Debug/outDebug",
+      "cwd": "g:/C++/Git Repo/CPP_practice/Loops",
+      "program": "g:/C++/Git Repo/CPP_practice/Loops/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
