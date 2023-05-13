@@ -2,11 +2,17 @@
 using namespace std;
 int main(){
     int n;
-    cout<<"Enter any Number to Print revers order";
+    //cout<<"Enter any Number to Print revers order";
     cin>>n;
+     int revNo=0;
 
-    for(int i=n; i>=1; i--)
+    while(n)
     {
-        cout<<i<<endl;
+        int unitDigit= n%10;
+        revNo=revNo*10+unitDigit;
+        n=n/10;
+
     }
+    cout<<revNo;
+
 }

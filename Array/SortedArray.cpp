@@ -1,34 +1,5 @@
-#include <iostream>
-#include <string.h>
-using namespace std;
+Take the following as input.
 
-void Sorting(int arr[], int n)
-{
-
-    for (int i = 0; i < n; i++)
-    {
-        for(int j=0; j<n-1-i; j++){
-        if (arr[j] > arr[j+1])
-        {
-            swap(arr[j], arr[j+1]);
-        }
-    }
-    }
-    for(int i=0; i<n; i++){
-
-    cout<<arr[i]<<" ";
-    }
-   
-    //return arr[n];
-}
-int main()
-{
-    int n, arr[n];
-    cin >> n;
-    for (int i = 0; i < n; i++)
-    {
-        cin >> arr[i];
-    }
-
-    Sorting(arr, n);
-}
+A number (N1)
+A number (N2)
+Write a function which prints first N1 terms of the series 3n + 2 which are not multiples of N2.
