@@ -29,6 +29,6 @@ void permutation(char str[],int pos)
 
 int main()
 {
-	char str[]="abc";
+	char str[]="abcd";
 	permutation(str,0);
 }
