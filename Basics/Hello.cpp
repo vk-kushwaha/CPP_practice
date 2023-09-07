@@ -2,9 +2,11 @@
 using namespace std;
 
 string name;
-void main(){
+int main(){
     cout<<" Enter your Name";
     cin>>name;
 cout<<"hello "<<name;
+
+return 0;
 
 }

@@ -58,6 +58,7 @@ int main()
     memset(dp, -1, sizeof(dp));
     cout << solve(height, n - 1) << endl;
     memset(dp, -1, sizeof(dp));
+    
     cout << solve2(height, 0, n - 1) << endl;
 
     return 0;
