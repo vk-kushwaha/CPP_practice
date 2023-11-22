@@ -4,55 +4,39 @@
 
 using namespace std;
 
-class Solution{
-public:
-    bool ispar(string x){
-        stack<char> s;
+bool isBalanced(string s) {
+    stack<char> st;
 
-        for(char c: x){
-            if (c=='(' || c=='{' || c=='['){
-                s.push(c);
+    for (char c : s) {
+        if (c == '(' || c == '{' || c == '[') {
+            st.push(c);
+        } else {
+            if (st.empty()) {
+                return false;
             }
-            else{
-                if(s.empty()){
-                    return false;
-                }
 
-                char top= s.top();
-                if ((c==')' && top =='(')||
-                    (c=='}' && top == '{') ||
-                    (c== ']' && top == '['))
-                {
-                    s.pop();
-
-                }
-                else{
-                    return false;
-                }
+            char top = st.top();
+            if ((c == ')' && top == '(') ||
+                (c == '}' && top == '{') ||
+                (c == ']' && top == '[')) {
+                st.pop();
+            } else {
+                return false;
             }
-            
         }
-        return s.empty();
     }
-};
 
-int main(){
+    return st.empty();
+}
 
-    int t;
-    cin >>t;
+int main() {
+    string input;
+    cin >> input;
 
-    while(t--){
-        string exp;
-        cin>>exp;
-
-        Solution sol;
-
-        if(sol.ispar(exp)){
-
-            cout<< " Balanced"<<endl;
-        }else{
-            cout<< "Not Balanced" <<endl;
-        }
+    if (isBalanced(input)) {
+        cout << "Yes" << endl;
+    } else {
+        cout << "No" << endl;
     }
 
     return 0;

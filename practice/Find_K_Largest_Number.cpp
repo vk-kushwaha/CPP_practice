@@ -2,19 +2,20 @@
 #include <vector>
 #include <algorithm>
 
+using namespace std;
 int main() {
     int n, k;
-    std::cin >> n >> k;
+    cin >> n >> k;
 
-    std::vector<int> arr(n);
+    vector<int> arr(n);
 
     for (int i = 0; i < n; i++) {
-        std::cin >> arr[i];
+        cin >> arr[i];
     }
 
-    std::sort(arr.begin(), arr.end(), std::greater<int>());
+    sort(arr.begin(), arr.end(), greater<int>());
 
-    std::cout << arr[k - 1] << std::endl;
+    cout << arr[k - 1] << endl;
 
     return 0;
 }
