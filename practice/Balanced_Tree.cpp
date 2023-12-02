@@ -55,11 +55,11 @@ int main(){
 
 	if(sol.isBalanced(root)){
 
-		cout<<" Balanced"<<endl;
+		cout<<" True"<<endl;
 	}
 	else{
 
-		cout<< "Not Balanced"<< endl;
+		cout<< "False"<< endl;
 	}
 
 	return 0;
